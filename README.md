@@ -10,5 +10,5 @@ I'm Amanaza, a Python developer with experience in web design. I'm passionate ab
 ## Projects
 1. Redditvideomaker: Create Reddit Videos with just✨ one command ✨.
 2. RuberDuck: A Python script that automates the process of generating solution for errors.
-
+3. Goodmorningtech a newsletter app 
 Feel free to connect with me on GitHub to collaborate on projects and learn from each other. Let's build something amazing together!
