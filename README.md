@@ -1,14 +1,20 @@
+## Greetings! 👋
+I'm Aman Raza, co-founder of Kyrios Dev.
+
+I specialize in backend development and possess a wealth of experience in web development. My drive comes from creating software solutions that tackle real-world challenges, leaving a positive impact on people's lives. My journey of perpetual learning fuels my passion for crafting innovative, problem-solving tools.
+
+## Speciality 
+
+1. Backend development
+2. Task Automation
 
 
+## Skill Set
+1. Proficient in Python development
+2. Adept in web design and development
 
-## Hi there! 👋
-I'm Amanaza, a Python developer with experience in web design. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives. I'm constantly learning and expanding my skill set to create even more innovative and impactful solutions.
+## Notable Projects
+1. **Redditvideomaker**(both open-source and commercial products): Craft Reddit Videos effortlessly using a single, magical click.
+1. **Goodmorningtech**: Curate and deliver morning tech news through AI summarization.
 
-## Skills
-1. Python development
-1. Web design and development
-## Projects
-1. Redditvideomaker: Create Reddit Videos with just✨ one command ✨.
-2. RuberDuck: A Python script that automates the process of generating solution for errors.
-3. Goodmorningtech a newsletter app 
-Feel free to connect with me on GitHub to collaborate on projects and learn from each other. Let's build something amazing together!
+Feel free to connect and collaborate with me on [GitHub](https://github.com/electro199). Let's join forces to create something extraordinary!
