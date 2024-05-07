@@ -11,7 +11,7 @@ I specialize in backend development and possess a wealth of experience in web de
 
 ## Skill Set
 1. Proficient in Python development
-2. Adept in web design and development
+2. Adapt in web design and development
 
 ## Notable Projects
 1. **Redditvideomaker**(both open-source and commercial products): Craft Reddit Videos effortlessly using a single, magical click.
